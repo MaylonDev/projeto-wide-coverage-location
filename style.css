@@ -108,9 +108,9 @@ a {
 
 @media screen and (max-width: 900px) {
     header {
-        margin: 25px 0 80px 42px;
+        margin: 70px 0 80px 43px;
         position: relative;
-        left: 130%;
+        left: 120%;
     }
     
     .link-header {
@@ -118,55 +118,46 @@ a {
     }
 
     button {
-        width: 150px;
-        height: 59px;
-        font-size: 19px;
-        line-height: 18px;
-        letter-spacing: 1px;
-    }
-
-    main {
-        width: 100%;
+        width: 170px;
+        height: 67px;
+        font-size: 25px;
+        letter-spacing: 2px;
     }
 
     img {
-        width: 604px;
-        height: 481px;
+        display: block;
+        width: 621px;
+        height: 543px;
+        margin-left: 56px;
         position: absolute;
-        top: 62em;
-        margin: 0px 39px 22px 53px;
+        top: 110%;
     }
 
     section {
-        display: inline-block;
-        width: 140%;
-        height: 50%;
+        display: block;
+        position: absolute;
+        top: 35%;
+        margin-left: 70px;
     }
 
     h1 {
-        margin: 124px auto 0px;
+        margin-bottom: 35px;
         text-align: center;
-        font-size: 52px;
-        line-height: 49px;
-        letter-spacing: 1.596154px;
+        font-size: 70px;
 
     }
 
     p {
-        width: 309px;
-        height: 165px;
-        font-size: 30px;
-        line-height: 43px;
-        letter-spacing: 0.5px;
         text-align: center;
-        margin: 0px auto 129px;
+        margin: 0px auto 95px;
+        font-size: 29px;
+        line-height: 39px;
+        letter-spacing: 1.5px;
+
     }
 
     a {
-        font-size: 28px;
-        line-height: 32px;
-        margin: 0px 212px 59px;
-        text-align: center;
+        font-size: 30px;
+        margin-left: 197px;
     }
-    
 }
