@@ -162,3 +162,51 @@ a {
         margin-left: 173px;
     }
 }
+
+@media screen and (max-width: 844px) {
+    section {
+        margin-left: 163px
+    }
+
+    img {
+        margin-left: 98px;
+    }
+}
+
+@media screen and (max-width: 667px) {
+    header {
+        margin: 50px 0px 81px 110px;
+        left: 120%;
+    }
+
+    button {
+        width: 236px;
+        height: 71px;
+        font-size: 29px;
+    }
+
+    img {
+        width: 621px;
+        height: 590px;
+        margin-left: 113px;
+        top: 121%;
+    }
+
+    section {
+        top: 33%;
+        margin-left: 140px;
+    }
+
+    h1 {
+        margin-bottom: 5px;
+        font-size: 55px;
+        line-height: 60px;
+    }
+
+    p {
+        font-size: 36px;
+        line-height: 44px;
+        letter-spacing: 0.5px;
+    }
+
+}
