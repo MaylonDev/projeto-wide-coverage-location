@@ -108,7 +108,7 @@ a {
 
 @media screen and (max-width: 900px) {
     header {
-        margin: 70px 0 80px 43px;
+        margin: 95px 0 81px 124px;
         position: relative;
         left: 120%;
     }
@@ -118,46 +118,47 @@ a {
     }
 
     button {
-        width: 170px;
-        height: 67px;
-        font-size: 25px;
-        letter-spacing: 2px;
+        width: 241px;
+        height: 80px;
+        font-size: 31px;
+        letter-spacing: 3px;
     }
 
     img {
-        display: block;
-        width: 621px;
-        height: 543px;
-        margin-left: 56px;
+        display: inline-block;
+        width: 714px;
+        height: 630px;
+        margin-left: 121px;
         position: absolute;
-        top: 110%;
+        top: 131%;
     }
 
     section {
         display: block;
         position: absolute;
-        top: 35%;
-        margin-left: 70px;
+        top: 37%;
+        margin-left: 197px;
     }
 
     h1 {
-        margin-bottom: 35px;
+        margin-bottom: 48px;
         text-align: center;
-        font-size: 70px;
+        font-size: 74px;
 
     }
 
     p {
         text-align: center;
         margin: 0px auto 95px;
-        font-size: 29px;
-        line-height: 39px;
+        font-size: 36px;
+        line-height: 42px;
         letter-spacing: 1.5px;
+        margin-bottom: 201px;
 
     }
 
     a {
-        font-size: 30px;
-        margin-left: 197px;
+        font-size: 38px;
+        margin-left: 173px;
     }
 }
